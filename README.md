@@ -19,4 +19,4 @@ To use this project with Firebase, some configuration steps are required.
 
 Flash screen          |  Login  |  Profile
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/Akshaypathak01/social_media_integration/blob/master/Screenshot/Screenshot1.png?raw=true)|![](https://github.com/Akshaypathak01/social_media_integration/blob/master/Screenshot/Screenshot2.png?raw=true)|![](https://github.com/Akshaypathak01/social_media_integration/blob/master/Screenshot/Screenshot3.png?raw=true) 
+![](https://github.com/ShripadCPawar/TSF-TASK/blob/main/Screenshot1.png)|![](https://github.com/Akshaypathak01/social_media_integration/blob/master/Screenshot/Screenshot2.png?raw=true)|![](https://github.com/Akshaypathak01/social_media_integration/blob/master/Screenshot/Screenshot3.png?raw=true) 
