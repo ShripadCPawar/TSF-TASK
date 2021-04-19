@@ -19,4 +19,4 @@ To use this project with Firebase, some configuration steps are required.
 
 Flash screen          |  Login  |  Profile
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://github.com/ShripadCPawar/TSF-TASK/blob/main/Screenshot1.png)|![](https://github.com/ShripadCPawar/TSF-TASK/blob/main/Screenshot2.png)|![]() 
+![](https://github.com/ShripadCPawar/TSF-TASK/blob/main/Screenshot1.png)|![](https://github.com/ShripadCPawar/TSF-TASK/blob/main/Screenshot2.png)|![](https://github.com/ShripadCPawar/TSF-TASK/blob/main/Screenshot3.png) 
