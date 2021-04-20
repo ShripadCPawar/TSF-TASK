@@ -1,11 +1,11 @@
 # TSF-TASK
-
+##  #GRIPMAR2021
 # Sign In App
 
 Simple basic authentication app designed in flutter.
 
 ## Running the project with Firebase
-## #GRIPMAR2021
+
 To use this project with Firebase, some configuration steps are required.
 
 - Create a new project with the Firebase console.
