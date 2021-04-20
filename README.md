@@ -24,4 +24,4 @@ Flash screen          |  Login  |  Profile
 
 <b>This Project is making with Partner</b> https://github.com/Akshaypathak01/social_media_integration.git <br>
 <b>Video Link :</b> https://youtu.be/SnOLsxNXVec <br>
-<b>Application Link :</b>  <br>
+<b>Application Link :</b> https://drive.google.com/folderview?id=1x9XLxPFTwtnqmd8JK6UzqOLY8BhXfg8O <br>
