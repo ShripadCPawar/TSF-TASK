@@ -2,7 +2,7 @@
 ##  #GRIPMAR2021
 # Sign In App
 
-Simple basic authentication app designed in flutter.
+Simple basic authentication app designed in Flutter.
 
 ## Running the project with Firebase
 
